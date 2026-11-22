@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 Copyright (C) 2015 Basil Miller
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -11,7 +12,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-<manifest package="com.gigamole.navigationtabstrip"
+<manifest
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -23,3 +24,4 @@ limitations under the License.
     </application>
 
 </manifest>
+
